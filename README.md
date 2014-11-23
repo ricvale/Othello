@@ -1,6 +1,7 @@
 Othello
 =======
 
-Quick and dirty Othello (Reversi) Game
+Othello (Reversi) Game
 
-Hybrid Android App made with Phonegap(Cordova)
+It is adapted for a Hybrid Android App made with Phonegap(Cordova)
+
