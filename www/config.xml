@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.pragmaticapps.reversi" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.apps.reversi" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Othello - Reversi</name>
     <description>
         Othello/Reversi application | Game.
     </description>
-    <author email="pragmatic.apps@facebook.com" href="http://www.facebook.com/pragmatic.apps">
+    <author email="" href="">
         P.A. Team
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
